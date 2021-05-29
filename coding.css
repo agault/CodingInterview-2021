@@ -1,0 +1,33 @@
+#content{
+    margin: 0 auto;
+    width: 50%;
+}
+.images{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ 
+}
+h4{
+    text-align: center;
+}
+.crown{
+    text-align : right;
+    padding: 10px;
+}
+.badge{
+    max-width: 30%;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.card{
+    margin:10px;
+    border:solid 2px rebeccapurple; 
+    padding:10px;
+}
+.card-body{
+    padding: 10px;
+}
